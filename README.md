@@ -4,4 +4,4 @@
 
 - EC2Enum.java : Enum running EC2 instance with public ip. Requires AWS Java SDK.
 
-- NetscalerIPFinder.java : Cause Netscaler HTTP interface sucks. Try to link (domain name|public IP) to (internal name|private IP) through CSVServer, CSPolicy, LBVserver and Service Group. Also diplays responder policies if available. See usage.  Requires "nitro" SDK.
+- NetscalerIPFinder.java : Cause Netscaler HTTP interface sucks. Try to link (domain name|public IP) to (internal name|private IP) through CSVServer, CSPolicy, LBVserver and Service Group. Also displays responder policies if available. See usage. Requires Citrix Netscaler "nitro" SDK.
